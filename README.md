@@ -21,7 +21,7 @@ You will build a responsive, single page [Next.JS](https://nextjs.org) app of a 
 ## What We're Looking For
 
 - Tailwind is appropriately used to style the UI, with mobile layout breakpoints to make the page responsive.
-- The mobile slide-out menu does not need to be functional.
+- The mobile slide-out menu does not need to be included.
 - The UI follows the designs as closely as possible (to resemble implementing designs from a designer).
 - Common UI elements are put into separate components to reduce repetition.
 
