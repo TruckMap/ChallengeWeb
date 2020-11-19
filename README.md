@@ -14,7 +14,7 @@ You will build a responsive, single page [Next.JS](https://nextjs.org) app of a 
 
 - Create a blank NextJS project, which is set up to use tailwind.css and purge any unused tailwind style classes.
 - Links and buttons on the page should have a hover state (see [designs](/designs/design-buttons.png?raw=true))
-- The "Why Us?" [menu dropdown](/designs/design-dropdown.png?raw=true) should be functional and animate/fade in, using React hooks to store the hover visibility state.
+- The "Why Us?" menu dropdown should be functional and animate/fade in, using React hooks to store the hover visibility state.
 - Image assets for the page are included in the [/assets](/assets) folder.
 - Separate the UI into reusable components so common items and styles aren't duplicated.
 
